@@ -8,7 +8,7 @@
 
 ``` xml
 <dependency>
-	<groupId>com.github.hiwepy</groupId>
+	<groupId>io.github.hiwepy</groupId>
 	<artifactId>pac4j-oauth-ext</artifactId>
 	<version>1.0.3.RELEASE</version>
 </dependency>
